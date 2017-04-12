@@ -110,8 +110,8 @@ header .navbar-default .navbar-nav {
 header .navbar-default .navbar-nav li a {
     color: #333333;
     padding: 10px 26px;
-    font-size: 15px;
-    font-family:'FontAwesome';
+    font-size: 22px;
+    font-family: 'Roboto', 'arial', sans-serif;
 }
 
 font header .navbar-default .navbar-nav li a:hover {
