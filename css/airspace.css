@@ -93,6 +93,10 @@ header .navbar-brand {
     margin-top:-25px;
 }
 
+header .navbar-brand img {
+    width:100px;
+}
+
 header .navbar-default {
     background: none;
     border: 0px;
