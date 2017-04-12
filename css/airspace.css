@@ -6,10 +6,6 @@
  *
  */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
-@import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
-
 /* var text-decoration */
 
 
@@ -67,6 +63,13 @@ a, a:active, a:focus, a:active {
     color: #666;
 }
 
+
+/*--
+	Wrap Start
+--*/
+#wrap {
+    padding-top:90px;
+}
 
 /*--
 	Header Start
