@@ -90,11 +90,11 @@ header .navbar {
 
 header .navbar-brand {
     padding:0;
-    margin-top:-16px;
+    margin-top:-15px;
 }
 
 header .navbar-brand img {
-    width:88px;
+    width:80px;
     border-radius:50%;
 }
 
