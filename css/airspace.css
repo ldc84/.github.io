@@ -95,7 +95,7 @@ header .navbar-brand {
 
 header .navbar-brand img {
     width:100px;
-    border-radius:50%;
+    border-radius:100px;
 }
 
 header .navbar-default {
