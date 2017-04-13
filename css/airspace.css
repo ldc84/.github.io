@@ -138,6 +138,15 @@ header .navbar-default .navbar-nav li a.active {
     transition:all 0.3s ease-in-out;
 }
 
+#quickTop {
+    position:fixed; bottom:10px; right:10px;
+    z-index:100;
+}
+#quickTop a {
+    font-size:60px;
+    color:#4A4656;
+}
+
 
 /*---------------------------------------------
 					Index Start
