@@ -146,6 +146,11 @@ header .navbar-default .navbar-nav li a.active {
     font-size:60px;
     color:#4A4656;
 }
+#quickTop a span {
+    font-size:0;
+    line-height:0;
+    text-indent:-9999px;
+}
 
 
 /*---------------------------------------------

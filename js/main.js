@@ -63,5 +63,16 @@ $(document).ready(function(){
 		}
 	});
 
+	// quick top
+	var quickTop = $('#quickTop');
+	quickTop.on('click', function(){
+
+		$('html, body').animate({
+			scrollTop:0
+		}, 300);
+
+		return false;
+	});
+
 
 });
