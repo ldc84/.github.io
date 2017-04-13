@@ -149,11 +149,12 @@ header .navbar-default .navbar-nav li a.active {
     height:50px;
     line-height:50px;
     font-size:30px;
-    color:#4A4656;
-    border:1px solid #4A4656;
+    color:#999;
+    border:1px solid #999;
     background:#fff;
     border-radius:50%;
-    box-shadow:0 0 3px 0 #555;
+    box-shadow:0 0 3px 0 #999;
+    text-align:center;
 }
 #quickTop a span {
     font-size:0;

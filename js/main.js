@@ -70,9 +70,11 @@ $(document).ready(function(){
 		if (winTop > 120) {
 			header.addClass('move');
 			logo.addClass('animated flipInY');
+			quickTop.addClass('hide animated bounceInUp');
 		}else {
 			header.removeClass('move');
 			logo.removeClass('animated flipInY');
+			quickTop.removeClass('hide animated bounceInUp');
 		}
 	});
 
