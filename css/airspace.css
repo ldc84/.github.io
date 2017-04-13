@@ -542,7 +542,7 @@ header .navbar-default .navbar-nav li a.active {
 #portfolio-work .block .portfolio-menu ul {
     border: 1px solid #999999;
     display:flex;
-    justify-content: center;
+    justify-content: space-between;
     margin-bottom: 40px;
 }
 
