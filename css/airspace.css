@@ -206,7 +206,8 @@ header .navbar-default .navbar-nav li a.active {
     margin: 0;
 }
 
-#intro .block p {
+#intro .block p,
+#intro .block li {
     color: #7B7B7B;
     padding-top: 20px;
 }
@@ -224,7 +225,7 @@ header .navbar-default .navbar-nav li a.active {
     padding-top: 20px;
 }
 #intro h3 {
-    margin-top:15px;
+    margin-top:20px;
     font-size:22px;
 }
 
