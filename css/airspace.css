@@ -90,8 +90,9 @@ header .navbar {
 }
 
 header .navbar-brand {
+    height:auto;
     padding:0;
-    margin-top:-15px;
+    margin-top:10px;
     transition:all 0.3s ease-in-out;
 }
 
@@ -120,7 +121,6 @@ header.move {
     transition:all 0.3s ease-in-out;
 }
 header.move .navbar-brand {
-    margin-top:0;
     transition:all 0.3s ease-in-out;
 }
 

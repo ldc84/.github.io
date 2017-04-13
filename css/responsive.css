@@ -177,9 +177,6 @@ px      68    160    252    */
     p {
         font-size: 13px;
     }
-    header.move .navbar-brand {
-        margin-top:0;
-    }
     header .navbar-default .navbar-toggle {
         margin-top: 20px;
         margin-bottom: 20px;
