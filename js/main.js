@@ -4,11 +4,11 @@ $(document).ready(function(){
 	$("#portfolio-contant-active").mixItUp();
 
 
-	$("#testimonial-slider").owlCarousel({
-	    paginationSpeed : 500,
-	    singleItem:true,
-	    autoPlay: 3000,
-	});
+	// $("#testimonial-slider").owlCarousel({
+	//     paginationSpeed : 500,
+	//     singleItem:true,
+	//     autoPlay: 3000,
+	// });
 
 
 
