@@ -46,11 +46,24 @@ $(document).ready(function(){
     });
 
 
-	// header scroll
+	// 20170403 추가
 	var win = $(window),
 		header = $('header'),
-		logo = header.find('.navbar-brand');
+		logo = header.find('.navbar-brand'),
+		quickTop = $('#quickTop');
 
+	// quick top
+	quickTop.on('click', function(){
+
+		$('html, body').animate({
+			scrollTop:0
+		}, 300);
+
+		return false;
+	});
+
+
+	// scroll
 	win.on('load scroll', function(){
 		var winTop = win.scrollTop();
 
@@ -61,17 +74,6 @@ $(document).ready(function(){
 			header.removeClass('move');
 			logo.removeClass('animated flipInY');
 		}
-	});
-
-	// quick top
-	var quickTop = $('#quickTop');
-	quickTop.on('click', function(){
-
-		$('html, body').animate({
-			scrollTop:0
-		}, 300);
-
-		return false;
 	});
 
 
