@@ -53,7 +53,7 @@ $(document).ready(function(){
 	win.on('load scroll', function(){
 		var winTop = win.scrollTop();
 
-		if (winTop > 10) {
+		if (winTop > 30) {
 			header.addClass('move');
 		}else {
 			header.removeClass('move');

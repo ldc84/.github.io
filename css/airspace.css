@@ -121,7 +121,7 @@ header .navbar-default .navbar-nav li a {
 
 header.move {
     padding:3px 0;
-    background:rgba(238,238,238,0.8);
+    background:rgba(238,238,238,0.9);
     box-shadow:0 3px 10px 0 #999;
     transition:all 0.3s ease-in-out;
 }
@@ -143,8 +143,9 @@ header.move .navbar-default .navbar-nav li a {
     transition:all 0.3s ease-in-out;
 }
 
-font header .navbar-default .navbar-nav li a:hover {
-    color: #000;
+font header .navbar-default .navbar-nav li a:hover,
+font header .navbar-default .navbar-nav li a.active {
+    color: #449e1f;
     transition:all 0.3s ease-in-out;
 }
 
