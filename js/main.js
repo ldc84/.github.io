@@ -56,10 +56,10 @@ $(document).ready(function(){
 
 		if (winTop > 30) {
 			header.addClass('move');
-			logo.addClass('animated rubberBand');
+			logo.addClass('animated flipInY');
 		}else {
 			header.removeClass('move');
-			logo.removeClass('animated rubberBand');
+			logo.removeClass('animated flipInY');
 		}
 	});
 
