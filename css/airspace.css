@@ -143,8 +143,8 @@ header.move .navbar-default .navbar-nav li a {
     transition:all 0.3s ease-in-out;
 }
 
-font header .navbar-default .navbar-nav li a:hover,
-font header .navbar-default .navbar-nav li a.active {
+header .navbar-default .navbar-nav li a:hover,
+header .navbar-default .navbar-nav li a.active {
     color: #449e1f;
     transition:all 0.3s ease-in-out;
 }
