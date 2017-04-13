@@ -223,6 +223,10 @@ header .navbar-default .navbar-nav li a.active {
 #intro .section-title p {
     padding-top: 20px;
 }
+#intro h3 {
+    margin-top:15px;
+    font-size:22px;
+}
 
 
 /*--
