@@ -120,9 +120,9 @@ header .navbar-default .navbar-nav li a {
 }
 
 header.move {
-    padding:5px 0;
+    padding:3px 0;
     background:rgba(238,238,238,0.8);
-    box-shadow:0 3px 3px 3px #999;
+    box-shadow:0 3px 10px 0 #999;
     transition:all 0.3s ease-in-out;
 }
 header.move .navbar-brand {
@@ -130,7 +130,7 @@ header.move .navbar-brand {
     transition:all 0.3s ease-in-out;
 }
 header.move .navbar-brand img {
-    width:50px;
+    width:48px;
     transition:all 0.3s ease-in-out;
 }
 header.move .navbar-default .navbar-nav {
@@ -138,8 +138,8 @@ header.move .navbar-default .navbar-nav {
     transition:all 0.3s ease-in-out;
 }
 header.move .navbar-default .navbar-nav li a {
-    padding:5px 20px;
-    font-size:14px;
+    padding:13px 20px;
+    font-size:18px;
     transition:all 0.3s ease-in-out;
 }
 
