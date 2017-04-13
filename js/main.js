@@ -48,15 +48,18 @@ $(document).ready(function(){
 
 	// header scroll
 	var win = $(window),
-		header = $('header');
+		header = $('header'),
+		logo = header.find('.navbar-brand');
 
 	win.on('load scroll', function(){
 		var winTop = win.scrollTop();
 
 		if (winTop > 30) {
 			header.addClass('move');
+			logo.addClass('animated rubberBand');
 		}else {
 			header.removeClass('move');
+			logo.removeClass('animated rubberBand');
 		}
 	});
 

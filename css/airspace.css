@@ -117,7 +117,7 @@ header .navbar-default .navbar-nav li a {
 header.move {
     padding:3px 0;
     background:rgba(255,255,255,0.9);
-    box-shadow:0 3px 10px 0 #999;
+    box-shadow:0 3px 10px 0 #555;
     transition:all 0.3s ease-in-out;
 }
 header.move .navbar-brand {
