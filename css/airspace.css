@@ -58,8 +58,6 @@ a, a:active, a:focus, a:active {
 }
 
 .section-title p {
-    font-family: 'Volkhov', serif;
-    font-style: italic;
     color: #666;
 }
 
@@ -351,6 +349,9 @@ header .navbar-default .navbar-nav li a.active {
     background: #655E7A;
     color: #fff;
     padding: 10px 20px;
+}
+.btn-view-works:hover {
+    color:#fff;
 }
 
 

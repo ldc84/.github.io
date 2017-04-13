@@ -54,7 +54,7 @@ $(document).ready(function(){
 	win.on('load scroll', function(){
 		var winTop = win.scrollTop();
 
-		if (winTop > 80) {
+		if (winTop > 120) {
 			header.addClass('move');
 			logo.addClass('animated flipInY');
 		}else {
