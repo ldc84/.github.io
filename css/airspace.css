@@ -228,6 +228,7 @@ header .navbar-default .navbar-nav li a.active {
     font-size:22px;
 }
 #intro .block li {
+    padding-top:5px;
     color: #7B7B7B;
     line-height:22px;
 }
