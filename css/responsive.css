@@ -275,6 +275,12 @@ px      68    160    252    */
         font-size: 11px;
         line-height: 25px;
     }
+    #portfolio-work .block .portfolio-menu ul {
+        display:inline-block;
+    }#portfolio-work .block .portfolio-menu ul li {
+        display:inline-block;
+        padding:0 25px;
+    }
     /*--
 	portfolio Start
 --*/
