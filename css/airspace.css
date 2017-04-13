@@ -141,8 +141,6 @@ header .navbar-default .navbar-nav li a.active {
 #quickTop {
     position:fixed; bottom:10px; right:10px;
     z-index:100;
-    opacity:0;
-    transition:all 0.3s ease-in-out;
 }
 #quickTop a {
     display:inline-block;
@@ -156,13 +154,15 @@ header .navbar-default .navbar-nav li a.active {
     border-radius:50%;
     box-shadow:0 0 3px 0 #999;
     text-align:center;
+    opacity:0;
+    transition:all 0.3s ease-in-out;
 }
 #quickTop a span {
     font-size:0;
     line-height:0;
     text-indent:-9999px;
 }
-#quickTop.active {
+#quickTop.active a {
     opacity:1;
     transition:all 0.3s ease-in-out;
 }
