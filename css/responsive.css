@@ -180,9 +180,6 @@ px      68    160    252    */
     header.move .navbar-brand {
         margin-top:0;
     }
-    header.move .navbar-brand img {
-        width:65px;
-    }
     header .navbar-default .navbar-toggle {
         margin-top: 20px;
         margin-bottom: 20px;

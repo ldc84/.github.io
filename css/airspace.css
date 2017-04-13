@@ -95,12 +95,6 @@ header .navbar-brand {
     transition:all 0.3s ease-in-out;
 }
 
-header .navbar-brand img {
-    width:80px;
-    border-radius:50%;
-    transition:all 0.3s ease-in-out;
-}
-
 header .navbar-default {
     background: none;
     border: 0px;
@@ -129,10 +123,7 @@ header.move .navbar-brand {
     margin-top:0;
     transition:all 0.3s ease-in-out;
 }
-header.move .navbar-brand img {
-    width:48px;
-    transition:all 0.3s ease-in-out;
-}
+
 header.move .navbar-default .navbar-nav {
     padding-top:3px;
     transition:all 0.3s ease-in-out;
@@ -145,7 +136,7 @@ header.move .navbar-default .navbar-nav li a {
 
 header .navbar-default .navbar-nav li a:hover,
 header .navbar-default .navbar-nav li a.active {
-    color: #449e1f;
+    color: #ff3165;
     transition:all 0.3s ease-in-out;
 }
 
