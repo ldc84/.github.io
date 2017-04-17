@@ -134,6 +134,8 @@ git을 GUI로 관리할 수 있다.
 현재 커서의 라인을 나타낸다.
 
 ![highlight-line](https://i.github-camo.com/6a26903350fa3c42ae7fe60907894196c495bb88/687474703a2f2f692e696d6775722e636f6d2f666133325774722e706e67)
+
+
 ![highlight-line](https://i.github-camo.com/e8cbffbf141175b7c4e1b64aae803fe861c74836/687474703a2f2f692e696d6775722e636f6d2f4731623865414a2e706e67)
 
 ----------
