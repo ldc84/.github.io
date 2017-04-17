@@ -144,3 +144,11 @@ git을 GUI로 관리할 수 있다.
 선택된 내용과 일치되는 내용을은 나타낸다.
 
 ![highlight-selected](https://i.github-camo.com/fb3c3e8f4170fc20047810e53cdfa1041f302a28/687474703a2f2f692e696d6775722e636f6d2f4335466e7a7a512e676966)
+
+----------
+
+## linter ##
+오류 및 기타 메시지를 쉽게 보여지게 한다. 각 언어에 맞는 linter 또한 설치해 주어야 한다. `linter-htmlHint`, `linter-csslint`, `linter-js-standard`, `linter-php` 등등
+
+
+![linter](https://i.github-camo.com/a7fa1da3b5b4bdea00b5d25591f47e0751f64d4e/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f343237383131332f32333837393933332f31616231376532612d303837322d313165372d383033642d3366653063636663363739302e676966)
