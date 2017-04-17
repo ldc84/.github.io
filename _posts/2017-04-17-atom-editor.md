@@ -55,7 +55,7 @@ author: CNS
 
 ----------
 
-## atom-hTML-preview ##
+## atom-html-preview ##
 아톰 에디터에서 html 미리 보기 기능.
 단축키 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>h</kbd>
 ![atom-beautify after](https://i.github-camo.com/8f053415f4dfba4849d9bbe8327425d54511d94b/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f313838353333332f31363534323732382f64636163333730302d343038612d313165362d386533352d3963386663343433326564632e706e67)
@@ -64,14 +64,15 @@ author: CNS
 
 ## atom-live-server ##
 로컬 서버를 실시간 리로드 기능.
-단축키
-기본 포트 3000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>l</kbd>
-라이브서버 중지 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>q</kbd>
-포트 3000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>3</kbd>
-포트 4000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>4</kbd>
-포트 5000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>5</kbd>
-포트 8000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>8</kbd>
-포트 9000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>9</kbd>
+
+>**단축키**
+> - 기본 포트 3000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>l</kbd>
+> - 라이브서버 중지 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>q</kbd>
+> - 포트 3000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>3</kbd>
+> - 포트 4000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>4</kbd>
+> - 포트 5000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>5</kbd>
+> - 포트 8000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>8</kbd>
+> - 포트 9000 : <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>9</kbd>
 
 ![atom-live-server](https://i.github-camo.com/80362269abcbd6c9f78c1441b0f6de285a88e773/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6a61732d6368656e2f61746f6d2d6c6976652d7365727665722f6d61737465722f646f632f64656d6f2e676966)
 
