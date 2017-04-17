@@ -105,3 +105,40 @@ javascript 자동완성 기능.
 파일마다 파일명 왼쪽에 아이콘으로 구분하기 쉽게 처리해 준다.
 
 ![file-icons](https://i.github-camo.com/fb720dc73a9cf634fef9b11e87f0cd194284e3be/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f66696c652d69636f6e732f61746f6d2f363731343730366632363865323537313030653033633965623532383139636239376164353730622f707265766965772e706e67)
+
+----------
+
+## git-control ##
+git을 GUI로 관리할 수 있다.
+단축키 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>o</kbd>
+
+----------
+
+## git-time-machine ##
+해당 파일의 git history를 볼 수 있다.
+단축키 <kbd>Alt</kbd> + <kbd>t</kbd>
+
+![git-time-machine](https://i.github-camo.com/62085307dccead1c2f5efdf4d7a40f9cdb777b93/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c6974746c656265652f6769742d74696d652d6d616368696e652f6d61737465722f7265736f75726365732f74696d656d616368696e652e676966)
+
+----------
+
+## goto-definition ##
+현재 커서의 함수가 있는 위치로 이동한다.
+단축키 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd>
+
+![goto-definition](https://i.github-camo.com/eda0a098e9fb8556ef623a9e2375e539dae82708/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f37316566343663316c7931666474387767626169716732307a69306a386864752e676966)
+
+----------
+
+## highlight-line ##
+현재 커서의 라인을 나타낸다.
+
+![highlight-line](https://i.github-camo.com/6a26903350fa3c42ae7fe60907894196c495bb88/687474703a2f2f692e696d6775722e636f6d2f666133325774722e706e67)
+![highlight-line](https://i.github-camo.com/e8cbffbf141175b7c4e1b64aae803fe861c74836/687474703a2f2f692e696d6775722e636f6d2f4731623865414a2e706e67)
+
+----------
+
+## highlight-selected ##
+선택된 내용과 일치되는 내용을은 나타낸다.
+
+![highlight-selected](https://i.github-camo.com/fb3c3e8f4170fc20047810e53cdfa1041f302a28/687474703a2f2f692e696d6775722e636f6d2f4335466e7a7a512e676966)
