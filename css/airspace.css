@@ -854,6 +854,14 @@ header .navbar-default .navbar-nav li a.active {
     word-spacing: 3px;
 }
 
+/*--
+	blog Start
+--*/
+.post img {
+    max-width:100%;
+}
+
+
 
 /*--
 	contact-form Start
