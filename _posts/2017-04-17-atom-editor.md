@@ -218,11 +218,8 @@ markdown 작성을 편리하게 도와 줌.
 여러 프로젝트를 왔다갔다 이동할 수 있다.
 
 #### 단축키 ####
-<dl>
-    <dt>Project Finder</dt>
-    <dd><kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>p</kbd></dd>
-    <dt>Project Tab</dt>
-    <dd><kbd>Ctrl</kbd> + <kbd>cmd</kbd> + <kbd>Tab</kbd></dd>
-</dl>
+Project Finder <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>p</kbd>
+
+Project Tab <kbd>Ctrl</kbd> + <kbd>cmd</kbd> + <kbd>Tab</kbd>
 
 ![project-plus](https://i.github-camo.com/b9a26f64c76d999f99811340d14847cab4b051d9/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6568636f64652f61746f6d2d70726f6a6563742d706c75732f6d61737465722f70726f6a6563742d706c75732e676966)
