@@ -1,26 +1,12 @@
 ---
 layout: post
-title: Welcome to jekyll!
-subtitle: Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com
-date: 2016-05-20 21:11:27
-author: jekyll
+title: Atom Editor
+subtitle: 아톰 에디터 알아보기
+date: 2017-04-17 13:56:00
+author: CNS
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+첫 포스팅은 아톰 에디터에 대한 글을 남기려 합니다. 예전부터 Edit plus, Sublime Text 등을 써오다 현재 Atom 을 사용한지 얼마 되지 않았지만 아주 만족하면서 사용하고 있습니다. 현재 사용하고 있는 패키지에 대해 간단히 글을 남기겠습니다.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Activate Power Mode ##
+코드 타이핑을 일정시간 안에 지속적으로 해주면 우측 상단에 콤보 갯수가 그림처럼 나오게 됩니다. 게임하는 것처럼 보일 수 있지만 타이핑 하는 재미가 커집니다. 이왕 일하는거 조금이라도 즐거움을 갖고 하는게 좋을 것 같습니다.
