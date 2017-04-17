@@ -147,8 +147,82 @@ git을 GUI로 관리할 수 있다.
 
 ----------
 
+## language-babel ##
+JavaScript, ES2015, ES2016, ESNext, JSX 문법 패키지
+
+----------
+
+## language-markdown ##
+markdown 문법 패키지
+
+----------
+
 ## linter ##
 오류 및 기타 메시지를 쉽게 보여지게 한다. 각 언어에 맞는 linter 또한 설치해 주어야 한다. `linter-htmlHint`, `linter-csslint`, `linter-js-standard`, `linter-php` 등등
 
 
 ![linter](https://i.github-camo.com/a7fa1da3b5b4bdea00b5d25591f47e0751f64d4e/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f343237383131332f32333837393933332f31616231376532612d303837322d313165372d383033642d3366653063636663363739302e676966)
+
+----------
+
+## markdown-preview-plus ##
+markdown 미리보기.
+단축키 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>m</kbd>
+
+![markdown-preview-plus](https://i.github-camo.com/a33e36e8625ddcac07e2949151f9124909ed0e4a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f61746f6d2d636f6d6d756e6974792f6d61726b646f776e2d707265766965772d706c75732f6d61737465722f696d67732f6d70702d66756c6c2d7265732d696e766572742e706e67)
+
+----------
+
+## markdown-writer ##
+markdown 작성을 편리하게 도와 줌.
+
+![markdown-writer](https://i.github-camo.com/216ebba971ab38d17d6eabdaf236d042a55b35b8/687474703a2f2f692e696d6775722e636f6d2f7339656b4d6e732e676966)
+
+----------
+
+## minimap ##
+우측의 미니맵이 나타난다.
+
+![minimap](https://i.github-camo.com/c26ef0defaf081ebd5ddfd730a1d914e9dfa3a3a/68747470733a2f2f6769746875622e636f6d2f61746f6d2d6d696e696d61702f6d696e696d61702f626c6f622f6d61737465722f7265736f75726365732f696e646570656e64656e742d7363726f6c6c2e6769663f7261773d74727565)
+
+----------
+
+## minimap-autohide ##
+해당 파일의 스크롤이 일정시간 멈춰 있게 되면 미니맵이 사라진다.
+
+![minimap-autohide](https://i.github-camo.com/601b737aa994d368ded16eec38bf3beac3353d05/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6a61796b2f6d696e696d61702d6175746f686964652f6d61737465722f73637265656e73686f742e676966)
+
+----------
+
+## minimap-selection ##
+해당 파일의 선택영역이 미니맵에 나타나게 된다.
+
+![minimap-selection](https://i.github-camo.com/ad42d91c418527f27ac2be778ec9b7b518eafd04/68747470733a2f2f6769746875622e636f6d2f61746f6d2d6d696e696d61702f6d696e696d61702d73656c656374696f6e2f626c6f622f6d61737465722f73637265656e73686f742e6769663f7261773d74727565)
+
+----------
+
+## open-in-browser ##
+브라우저를 띄우준다.
+단축키 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd>
+
+----------
+
+## pigments ##
+색상값을 파일에서 보여준다.
+
+![pigments](https://i.github-camo.com/802d8b759d01e70861f95f99495731f19b145b03/687474703a2f2f61626533332e6769746875622e696f2f61746f6d2d7069676d656e74732f7069676d656e74732e6769663f7261773d74727565)
+
+----------
+
+## project-plus ##
+여러 프로젝트를 왔다갔다 이동할 수 있다.
+
+#### 단축키 ####
+<dl>
+    <dt>Project Finder</dt>
+    <dd><kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>p</kbd></dd>
+    <dt>Project Tab</dt>
+    <dd><kbd>Ctrl</kbd> + <kbd>cmd</kbd> + <kbd>Tab</kbd></dd>
+</dl>
+
+![project-plus](https://i.github-camo.com/b9a26f64c76d999f99811340d14847cab4b051d9/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6568636f64652f61746f6d2d70726f6a6563742d706c75732f6d61737465722f70726f6a6563742d706c75732e676966)
