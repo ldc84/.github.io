@@ -26,15 +26,15 @@ author: CNS
 ## aligner ##
 멀티 라인을 정렬해 주는 기능
 
-**지원언어:**
-* - Javascript
-* - Coffeescript
-* - Ruby
-* - CSS & LESS
-* - SASS & SCSS
-* - PHP
-* - Python
-* - Stylus
-* - Lua
+>**지원언어:**
+> - Javascript
+> - Coffeescript
+> - Ruby
+> - CSS & LESS
+> - SASS & SCSS
+> - PHP
+> - Python
+> - Stylus
+> - Lua
 
 ![aligner](https://i.github-camo.com/00db833ad432a419abb9fd49bcd6297ab823d9a2/68747470733a2f2f7261772e6769746875622e636f6d2f61647269616e6c656534342f61746f6d2d616c69676e65722f6d61737465722f64656d6f2e676966)
