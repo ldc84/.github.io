@@ -868,6 +868,9 @@ header .navbar-default .navbar-nav li a.active {
     max-width:100%;
 }
 
+.post-area > a {
+    color:#ff3165;
+}
 
 
 /*--
