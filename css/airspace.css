@@ -592,6 +592,11 @@ header .navbar-default .navbar-nav li a.active {
     background:#F5F5F5;
     text-align:center;
     cursor:pointer;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-menu ul li:first-child {
     border-left:1px solid #ccc;
@@ -601,6 +606,11 @@ header .navbar-default .navbar-nav li a.active {
     color:#ff3165;
     font-weight:bold;
     background:#fff;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
 }
 
 /*#portfolio-work .block .portfolio-menu ul {
