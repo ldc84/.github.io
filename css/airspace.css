@@ -164,10 +164,6 @@ header .navbar-default .navbar-nav li a.active {
     transition:all 0.3s ease-in-out;
 }
 
-.container {
-    padding-bottom:50px;
-}
-
 /*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
@@ -866,6 +862,10 @@ header .navbar-default .navbar-nav li a.active {
 --*/
 .post img {
     max-width:100%;
+}
+
+.post .container {
+    padding-bottom:50px;
 }
 
 .post-area > a {
