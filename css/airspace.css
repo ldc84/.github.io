@@ -576,6 +576,25 @@ header .navbar-default .navbar-nav li a.active {
 }
 
 #portfolio-work .block .portfolio-menu ul {
+    overflow: hidden;
+}
+
+#portfolio-work .block .portfolio-menu ul li {
+    float:left;
+    width:16%;
+    height:30px;
+    line-height:30px;
+    border:1px solid #ccc;
+    border-bottom:none;
+    border-top:2px solid #ccc;
+    text-align:center;
+}
+
+#portfolio-work .block .portfolio-menu ul li.active {
+    border-top-color:#ff3165;
+}
+
+/*#portfolio-work .block .portfolio-menu ul {
     border: 1px solid #999999;
     display:flex;
     justify-content: space-between;
@@ -584,7 +603,6 @@ header .navbar-default .navbar-nav li a.active {
 }
 
 #portfolio-work .block .portfolio-menu ul li {
-    /*display: inline-block;*/
     padding: 0px 5px;
     cursor: pointer;
     font-size: 15px;
@@ -638,7 +656,7 @@ header .navbar-default .navbar-nav li a.active {
     -o-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
-}
+}*/
 
 #portfolio-work .block .portfolio-contant ul li {
     float: left;
