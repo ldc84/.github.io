@@ -586,13 +586,14 @@ header .navbar-default .navbar-nav li a.active {
     line-height:30px;
     color:#666;
     font-size:18px;
-    border:1px solid #ccc;
-    border-bottom:none;
+    border-left:1px solid #ccc;
     border-top:2px solid #ccc;
     text-align:center;
     cursor:pointer;
 }
-
+#portfolio-work .block .portfolio-menu ul li:first-child {
+    border-left:none;
+}
 #portfolio-work .block .portfolio-menu ul li.active {
     border-top-color:#ff3165;
     color:#ff3165;
