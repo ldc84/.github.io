@@ -582,18 +582,18 @@ header .navbar-default .navbar-nav li a.active {
 #portfolio-work .block .portfolio-menu ul li {
     float:left;
     width:16%;
-    height:30px;
-    line-height:30px;
+    height:46px;
+    line-height:46px;
     color:#666;
     font-family:'Roboto';
     font-size:18px;
-    border-left:1px solid #ccc;
+    border-right:1px solid #ccc;
     border-top:2px solid #ccc;
     text-align:center;
     cursor:pointer;
 }
 #portfolio-work .block .portfolio-menu ul li:first-child {
-    border-left:none;
+    border-left:1px solid #ccc;
 }
 #portfolio-work .block .portfolio-menu ul li.active {
     border-top-color:#ff3165;
