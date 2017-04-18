@@ -868,8 +868,15 @@ header .navbar-default .navbar-nav li a.active {
     padding-bottom:50px;
 }
 
-.post-area > a {
+.post-area > a:link {
     color:#ff3165;
+    opacity:0.8;
+    transition: all 0.3s ease;
+}
+.post-area > a:hover,
+.post-area > a:active {
+    opacity:1;
+    transition: all 0.3s ease;
 }
 
 
