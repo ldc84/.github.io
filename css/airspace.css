@@ -878,6 +878,9 @@ header .navbar-default .navbar-nav li a.active {
     opacity:1;
     transition: all 0.3s ease;
 }
+#wrap .post-area > a:visited {
+    color:#ff3165;
+}
 
 
 /*--
