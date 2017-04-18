@@ -861,7 +861,6 @@ header .navbar-default .navbar-nav li a.active {
 	blog Start
 --*/
 .post img {
-    width:100%;
     max-width:600px;
 }
 
