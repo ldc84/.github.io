@@ -612,14 +612,6 @@ header .navbar-default .navbar-nav li a.active {
     -ms-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
 }
-#portfolio-work .block .portfolio-menu ul li i {
-    font-size:18px;
-    transition: all 0.4s ease-in-out;
-}
-#portfolio-work .block .portfolio-menu ul li:hover i {
-    font-size:22px;
-    transition: all 0.4s ease-in-out;
-}
 
 /*#portfolio-work .block .portfolio-menu ul {
     border: 1px solid #999999;
