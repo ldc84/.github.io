@@ -581,7 +581,7 @@ header .navbar-default .navbar-nav li a.active {
 
 #portfolio-work .block .portfolio-menu ul li {
     float:left;
-    width:16%;
+    width:16.6%;
     height:46px;
     line-height:46px;
     color:#666;
@@ -589,6 +589,7 @@ header .navbar-default .navbar-nav li a.active {
     font-size:18px;
     border-right:1px solid #ccc;
     border-top:2px solid #ccc;
+    background:#E8E8E8;
     text-align:center;
     cursor:pointer;
 }
@@ -598,6 +599,7 @@ header .navbar-default .navbar-nav li a.active {
 #portfolio-work .block .portfolio-menu ul li.active {
     border-top-color:#ff3165;
     color:#ff3165;
+    background:#fff;
 }
 
 /*#portfolio-work .block .portfolio-menu ul {
