@@ -223,3 +223,23 @@ Project Finder <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>p</kbd>
 Project Tab <kbd>Ctrl</kbd> + <kbd>cmd</kbd> + <kbd>Tab</kbd>
 
 ![project-plus](https://i.github-camo.com/b9a26f64c76d999f99811340d14847cab4b051d9/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6568636f64652f61746f6d2d70726f6a6563742d706c75732f6d61737465722f70726f6a6563742d706c75732e676966)
+
+----------
+
+## sublime-block-comment ##
+```
+/* */
+```
+주석을 토글 처리 해준다.
+
+----------
+
+## swackets ##
+매칭되는 중괄호 컬러를 맞춰준다.
+
+![swackets](https://i.github-camo.com/1d6e5771d77b22e50c7f753bd34ecc14b6555946/687474703a2f2f692e696d6775722e636f6d2f576a6b777033352e706e67)
+
+----------
+
+## sync-settings ##
+세팅된 패키지를 git에 백업 및 복원을 할 수 있게 도와준다. gist 설정을 해주어야 함.
