@@ -613,10 +613,11 @@ header .navbar-default .navbar-nav li a.active {
     transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-menu ul li i {
+    font-size:18px;
     transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-menu ul li:hover i {
-    transform: scale(1.2);
+    font-size:22px;
     transition: all 0.4s ease-in-out;
 }
 
