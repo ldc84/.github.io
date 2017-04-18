@@ -599,6 +599,7 @@ header .navbar-default .navbar-nav li a.active {
 #portfolio-work .block .portfolio-menu ul li.active {
     border-top-color:#ff3165;
     color:#ff3165;
+    font-weight:bold;
     background:#fff;
 }
 
