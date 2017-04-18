@@ -1083,8 +1083,8 @@ header .navbar-default .navbar-nav li a.active {
 footer {
     background: #F5F5F5;
     text-align: center;
-    padding-top: 48px;
-    padding-bottom: 55px;
+    padding-top: 30px;
+    padding-bottom: 35px;
 }
 
 footer p {
