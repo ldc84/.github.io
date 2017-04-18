@@ -588,7 +588,7 @@ header .navbar-default .navbar-nav li a.active {
     font-family:'Roboto';
     font-size:18px;
     border-right:1px solid #ccc;
-    border-top:2px solid #ccc;
+    border-top:4px solid #ccc;
     background:#F5F5F5;
     text-align:center;
     cursor:pointer;
