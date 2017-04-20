@@ -51,9 +51,11 @@ author: CNS
 [확장프로그램 바로가기](https://chrome.google.com/webstore/detail/jquery-audit/dhhnpbajdcgdmbbcoakfhmfgmemlncjg/)
 
 f12(개발자도구) 에서 jQuery Audit 탭으로 이동
+
 ![jQuery Audit](https://camo.githubusercontent.com/abcf6f2263abc4f2f1e8bcdcd47bb11d4080b664/687474703a2f2f7374617469632e74756d626c722e636f6d2f70327a6a6865742f57625a6d77667161712f6a71756572792d61756469742d70616e656c2e706e67)
 
 해방 돔의 핸들러에서 마우스 오른쪽 클릭 > Show Function Definition 클릭
+
 ![jQuery Audit](https://camo.githubusercontent.com/731cbd18fe816f3bca3811bda2ad76e03153396b/687474703a2f2f7374617469632e74756d626c722e636f6d2f70327a6a6865742f706e696d776672776c2f73686f772d66756e6374696f6e2d646566696e6974696f6e2d686967686c696768742e706e67)
 
 
