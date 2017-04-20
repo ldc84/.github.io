@@ -46,7 +46,7 @@ author: CNS
 ----------
 
 ## jQuery Audit ##
-제이쿼리 핸들러의 경우 해당 함수 및 메소드가 있는 파일 위치로 이동을 시켜준다.
+제이쿼리 핸들러의 경우 해당 함수 및 메소드가 있는 파일을 열고 해당 위치로 이동을 시켜준다.
 
 [확장프로그램 바로가기](https://chrome.google.com/webstore/detail/jquery-audit/dhhnpbajdcgdmbbcoakfhmfgmemlncjg/)
 
