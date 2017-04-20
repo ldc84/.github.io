@@ -18,19 +18,19 @@ author: CNS
 
 >**Capture visible part of page**
 >보이는 페이지 부분을 캡처
-
+>
 >**Delayed capture**
 >설정값에 따라 3초 또는 5초 후 캡처
-
+>
 >**Capture seledted area**
 >선택한 영역을 캡처
-
+>
 >**Capture entire page**
 >전체 페이지 캡처
-
+>
 >**Select a loacl image**
 >이미지 불러오기
-
+>
 >**Capture Desktop**
 >데스크톱 창 캡처
 
