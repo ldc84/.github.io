@@ -83,3 +83,6 @@ f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 [확장프로그램 바로가기](https://chrome.google.com/webstore/detail/%EB%8B%A4%EC%9D%8C-%EC%82%AC%EC%A0%84-daum-dictionary/kkhffehjpbmdlibbcideiaidmdcfgglc)
 
 ![다음 사전](https://lh3.googleusercontent.com/tpbWArwQ6Baannx79sXmfka8ZaT9rkDhOtQY7bW8wrEQJTqImAzg5P1FIO5y6cqWSFhi2h-lFw=s640-h400-e365-rw)
+
+## 마무리 ##
+위에 나열한 확장 프로그램을 주로 사용하지만 더 좋은 확장 프로그램이 있다면 추천 해 주시기 바랍니다.
