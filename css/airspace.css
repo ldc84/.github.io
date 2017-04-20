@@ -425,8 +425,12 @@ header .navbar-default .navbar-nav li a.active {
 }
 
 #testimonial .counter-box li h4 {
+    color: #333;
     font-size: 30px;
     font-weight: bold;
+}
+#testimonial .counter-box li h4 span {
+    color: #333;
 }
 
 #testimonial .counter-box li span {
