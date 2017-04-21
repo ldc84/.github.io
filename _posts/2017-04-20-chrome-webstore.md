@@ -11,7 +11,7 @@ author: CNS
 ## Awesome Screenshot ##
 캡쳐 확장 프로그램으로 현재 페이지를 자유롭게 캡쳐 및 편집하여 공유하거나 저장할 수 있다.
 
-[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj){:target="_blank"}
 
 ![Awesome Screenshot](https://lh3.googleusercontent.com/eftq4Sg95rUqiJcx_JESlHbYFRvDLE8f7qdCWAp3u2OxGAukFXPsSarn-O8IKFdc0P7HPmoWKw=s640-h400-e365-rw)
 
@@ -39,7 +39,7 @@ author: CNS
 ## Fatkun ##
 해당 페이지에 이미지 일부 또는 전체를 다운로드 할 수 있다.
 
-[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf){:target="_blank"}
 
 ![Fatkun](https://lh3.googleusercontent.com/CH0o5wJbC4py2ZQMkSd71AUV1UzA359SrXjM1OHcdHlWIX-e7MC1UFlWS-MTUPuerOZG8SEXMA=s640-h400-e365-rw)
 
@@ -48,7 +48,7 @@ author: CNS
 ## jQuery Audit ##
 제이쿼리 핸들러의 경우 해당 함수 및 메소드가 있는 파일을 열고 해당 위치로 이동을 시켜준다.
 
-[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/jquery-audit/dhhnpbajdcgdmbbcoakfhmfgmemlncjg/)
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/jquery-audit/dhhnpbajdcgdmbbcoakfhmfgmemlncjg/){:target="_blank"}
 
 f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 
@@ -64,7 +64,7 @@ f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 ## SimpleUndoClose ##
 최근에 닫은 사이트 목록이 뜬다. 실수로 닫았을때 유용하게 쓸 수 있다.
 
-[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj){:target="_blank"}
 
 ![SimpleUndoClose](https://lh3.googleusercontent.com/w2PYB6jOSLql34MbWxhOafdymk9YwKZ-dCV-8MitsHxlsKJ5lSKG42h5iVAimnG-TqeeSj5EJ0k=s640-h400-e365-rw)
 
@@ -73,7 +73,7 @@ f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 ## Video Downloader professional ##
 현재 페이지의 동영상을 다운 받을 수 있다.
 
-[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil)
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil){:target="_blank"}
 
 ![Video Downloader professional](https://lh3.googleusercontent.com/yo7lb6RCEkIGgBDMwIPKsEOJP3j3ruxZFTIunOE_OM8cuRohYT_61ymXIo-GSJVT-AnP0iQ1=s640-h400-e365-rw)
 
@@ -82,7 +82,7 @@ f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 ## 다음 사전 (Daum Dictionary) ##
 손쉽게 사전을 펼쳐서 단어를 검색할 수 있다.
 
-[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/%EB%8B%A4%EC%9D%8C-%EC%82%AC%EC%A0%84-daum-dictionary/kkhffehjpbmdlibbcideiaidmdcfgglc)
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/%EB%8B%A4%EC%9D%8C-%EC%82%AC%EC%A0%84-daum-dictionary/kkhffehjpbmdlibbcideiaidmdcfgglc){:target="_blank"}
 
 ![다음 사전](https://lh3.googleusercontent.com/tpbWArwQ6Baannx79sXmfka8ZaT9rkDhOtQY7bW8wrEQJTqImAzg5P1FIO5y6cqWSFhi2h-lFw=s640-h400-e365-rw)
 
