@@ -45,6 +45,15 @@ author: CNS
 
 ----------
 
+## Fontface Ninja ##
+해당 페이지의 폰트를 확인할 수 있고 크기 간격등을 테스트 할 수 있고, 다운로드 및 판매 링크로 이동할 수 있다.
+
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh){:target="_blank"}
+
+![Fontface Ninja](https://lh3.googleusercontent.com/uYor43TDsqUIenbca-mbGuQT6_zxD2HflWJ7iOz35z7QmdLxVf6FxkrX5ZjshejYmHDqFr1FU9Q=s640-h400-e365-rw)
+
+----------
+
 ## jQuery Audit ##
 제이쿼리 핸들러의 경우 해당 함수 및 메소드가 있는 파일을 열고 해당 위치로 이동을 시켜준다.
 
@@ -58,6 +67,14 @@ f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 
 ![jQuery Audit](https://camo.githubusercontent.com/731cbd18fe816f3bca3811bda2ad76e03153396b/687474703a2f2f7374617469632e74756d626c722e636f6d2f70327a6a6865742f706e696d776672776c2f73686f772d66756e6374696f6e2d646566696e6974696f6e2d686967686c696768742e706e67)
 
+----------
+
+## Page Ruler ##
+현재 페이지와 요소의 폭 넓이 위치 등을 확인할 수 있다. 드래그 및 클릭도 가능함.
+
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn){:target="_blank"}
+
+![Page Ruler](https://lh6.googleusercontent.com/_FfqCKd2rIXKCFndezU2KIkuHcmd5UPRUia99zBWoq8Y1kKpsmx7SlwruQO8GCHQipruKWdi=s640-h400-e365-rw)
 
 ----------
 
