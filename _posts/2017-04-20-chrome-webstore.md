@@ -46,7 +46,7 @@ author: CNS
 ----------
 
 ## Fontface Ninja ##
-해당 페이지의 폰트를 확인할 수 있고 크기 간격등을 테스트 할 수 있고, 다운로드 및 판매 링크로 이동할 수 있다.
+해당 페이지의 폰트의 종류, 크기, 간격등을 테스트 할 수 있고, 다운로드 및 판매 링크로 이동할 수 있다.
 
 [확장프로그램 바로가기](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh){:target="_blank"}
 
