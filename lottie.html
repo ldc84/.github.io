@@ -1,0 +1,46 @@
+---
+layout: page
+title: Lottie
+permalink: /lottie/
+---
+
+<section id="lottie">
+    <h2>Lottie Files 테스트</h2>
+    <ul class="list">
+        <li>
+            <a href="/adrock/">캐릭터 1</a>
+            <a href="/banner/">배너</a>
+            <a href="/beacon/">비콘</a>
+            <a href="/bodymovin/">Bodymovin</a>
+            <a href="/catrim/">고양이</a>
+            <a href="/download/">다운로드</a>
+            <a href="/fingerprint/">지문인식</a>
+            <a href="/grunt/">Grunt 캐릭터</a>
+            <a href="/location/">현재위치</a>
+            <a href="/navidad/">크리스마스</a>
+            <a href="/preloader/">로더</a>
+            <a href="/submit/">Submit Button</a>
+        </li>
+    </ul>
+
+    <div class="lottie-box"></div>
+</section>
+
+<script type="text/javascript">
+$(function(){
+    var lottie = $('#lottie'),
+        btn = lottie.find('a'),
+        lottieBox = lottie.find('.lottie-box');
+
+    btn.on('click', function(){
+        var $this = $(this),
+            href = $this.attr('href');
+
+        lottieBox.html('/lottie'+href);
+
+        return false;
+    });
+
+
+});
+</script>
