@@ -9,40 +9,41 @@ permalink: /lottie/
         <h2>Lottie Files 테스트</h2>
         <ul class="list">
             <li>
-                <a href="/adrock/">캐릭터 1</a>
-                <a href="/banner/">배너</a>
-                <a href="/beacon/">비콘</a>
-                <a href="/bodymovin/">Bodymovin</a>
-                <a href="/catrim/">고양이</a>
-                <a href="/download/">다운로드</a>
-                <a href="/fingerprint/">지문인식</a>
-                <a href="/grunt/">Grunt 캐릭터</a>
-                <a href="/location/">현재위치</a>
-                <a href="/navidad/">크리스마스</a>
-                <a href="/preloader/">로더</a>
-                <a href="/submit/">Submit Button</a>
+                <a href="/lottieDemo/adrock/" target="_blank">캐릭터 1</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/banner/" target="_blank">배너</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/beacon/" target="_blank">비콘</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/bodymovin/" target="_blank">Bodymovin</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/catrim/" target="_blank">고양이</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/download/" target="_blank">다운로드</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/fingerprint/" target="_blank">지문인식</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/grunt/" target="_blank">Grunt 캐릭터</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/location/" target="_blank">현재위치</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/navidad/" target="_blank">크리스마스</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/preloader/" target="_blank">로더</a>
+            </li>
+            <li>
+                <a href="/lottieDemo/submit/" target="_blank">Submit Button</a>
             </li>
         </ul>
     </div>
-    <div class="lottie-box"></div>
 </section>
-<script src="/lottieDemo/bodymovin.js"></script>
-<script type="text/javascript">
-$(function(){
-    var lottie = $('#lottie'),
-        btn = lottie.find('a'),
-        lottieBox = lottie.find('.lottie-box');
-
-    btn.on('click', function(){
-        var $this = $(this),
-            href = $this.attr('href');
-
-        console.log(lottieBox.load('/lottieDemo/adrock/index.html'));
-        lottieBox.load('/lottieDemo/adrock/index.html');
-
-        return false;
-    });
-
-
-});
-</script>
