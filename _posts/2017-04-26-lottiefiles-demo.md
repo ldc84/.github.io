@@ -20,26 +20,26 @@ author: CNS
 ## Web Test ##
 web용으로 따로 demo 파일 몇개를 가져와서 동작을 구현해 보았다.
 
-[캐릭터 1](/lottieDemo/adrock/){:target="_blank"}
-
-[배너](/lottieDemo/banner/){:target="_blank"}
-
-[비콘](/lottieDemo/beacon/){:target="_blank"}
-
-[Bodymovin](/lottieDemo/bodymovin/){:target="_blank"}
-
-[고양이](/lottieDemo/catrim/){:target="_blank"}
-
-[다운로드](/lottieDemo/download/){:target="_blank"}
-
-[지문인식](/lottieDemo/fingerprint/){:target="_blank"}
-
-[Grunt 캐릭터](/lottieDemo/grunt/){:target="_blank"}
-
-[현재위치](/lottieDemo/location/){:target="_blank"}
-
-[크리스마스](/lottieDemo/navidad/){:target="_blank"}
-
-[로더](/lottieDemo/preloader/){:target="_blank"}
-
-[Submit Button](/lottieDemo/submit/){:target="_blank"}
+>[캐릭터 1](/lottieDemo/adrock/){:target="_blank"}
+>
+>[배너](/lottieDemo/banner/){:target="_blank"}
+>
+>[비콘](/lottieDemo/beacon/){:target="_blank"}
+>
+>[Bodymovin](/lottieDemo/bodymovin/){:target="_blank"}
+>
+>[고양이](/lottieDemo/catrim/){:target="_blank"}
+>
+>[다운로드](/lottieDemo/download/){:target="_blank"}
+>
+>[지문인식](/lottieDemo/fingerprint/){:target="_blank"}
+>
+>[Grunt 캐릭터](/lottieDemo/grunt/){:target="_blank"}
+>
+>[현재위치](/lottieDemo/location/){:target="_blank"}
+>
+>[크리스마스](/lottieDemo/navidad/){:target="_blank"}
+>
+>[로더](/lottieDemo/preloader/){:target="_blank"}
+>
+>[Submit Button](/lottieDemo/submit/){:target="_blank"}
