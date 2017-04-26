@@ -16,6 +16,8 @@ permalink: /blog/
 	    </div>
 	</div>
 </section>
+
+<div class="container">
 {% for post in site.posts %}
 <div class="post-area">
 	<a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
@@ -25,7 +27,7 @@ permalink: /blog/
 	</p>
 </div>
 {% endfor %}
-
+</div>
 
 <script type="text/javascript">
 $(function(){
