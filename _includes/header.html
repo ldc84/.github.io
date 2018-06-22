@@ -38,12 +38,12 @@ $(function(){
   var match = window.location.pathname;
   var idx = 0;
   var header = $('header .navbar-default .navbar-nav a');
-  switch (match) {
-    case '/work/' : return idx = 0
+  switch (mat) {
+    case match == '/work/' : return idx = 0
       break;
-    case '/blog/' : return idx = 1
+    case match == '/blog/' : return idx = 1
       break;
-    case '/contact/' : return idx = 2
+    case match == '/contact/' : return idx = 2
       break;
   }
   header.eq(idx).addClass('active');
