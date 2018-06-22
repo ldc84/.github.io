@@ -32,20 +32,3 @@
     </div>
   </div>
 </header><!-- header close -->
-
-<script type="text/javascript">
-$(function(){
-  var match = window.location.pathname;
-  var idx = 0;
-  var header = $('header .navbar-default .navbar-nav a');
-  switch (match) {
-    case '/work/' : idx = 0
-      break;
-    case '/blog/' : idx = 1
-      break;
-    case '/contact/' : idx = 2
-      break;
-  }
-  header.eq(idx).addClass('active');
-});
-</script>
