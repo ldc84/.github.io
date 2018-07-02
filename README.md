@@ -15,3 +15,9 @@ Here are some projects that have used this Jekyll Theme:
 * [Coding Club](https://ourcodingclub.github.io/)
 * [Dev Empathy Book Club](http://www.devempathybook.club/)
 * [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+
+## Repository 내용
+* 소개
+* 작업물
+* 블로그
+* 메일
