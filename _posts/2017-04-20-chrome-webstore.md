@@ -36,6 +36,15 @@ author: CNS
 
 ----------
 
+## crxMouse ##
+마우스 제스처로 뒤로가기, 앞으로가기, 이미지 다운로드 등 간편하게 할 수 있다.
+
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo){:target="_blank"}
+
+![crxMouse](https://lh3.googleusercontent.com/H0vpxGEvL0ImuMHMwk1q-ymhl5vHvRB45n-BEjysHqWr1U4nRlylIgC_UE6o8ndWPDpVLTDW4WQ=w640-h400-e365)
+
+----------
+
 ## Fatkun ##
 해당 페이지에 이미지 일부 또는 전체를 다운로드 할 수 있다.
 
@@ -93,6 +102,34 @@ f12(개발자도구) 에서 jQuery Audit 탭으로 이동
 [확장프로그램 바로가기](https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil){:target="_blank"}
 
 ![Video Downloader professional](https://lh3.googleusercontent.com/yo7lb6RCEkIGgBDMwIPKsEOJP3j3ruxZFTIunOE_OM8cuRohYT_61ymXIo-GSJVT-AnP0iQ1=s640-h400-e365-rw)
+
+----------
+
+## Vue.js devtools ##
+Vue.js 개발시 유용한 확장프로그램
+
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd){:target="_blank"}
+
+![Vue.js devtools](https://lh3.googleusercontent.com/qxwDLIJ_CkyKGtJapQz6zd-g4YJCQlLbXLET3ZiddHHSR_wrBPKxgAaSA1eCcNtlJ19xBZ32Og=w640-h400-e365)
+
+----------
+
+## Wappalyzer ##
+현재 페이지의 개발 언어 및 기술을 한눈에 볼 수 있다.
+
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon){:target="_blank"}
+
+![Wappalyzer](https://lh3.googleusercontent.com/b3hdv8twlh1yW5ZuNk88XzGN9pPnBwlMyVnjIeDFa-nT47e7xQ4y2vhwgPeTIBs-aQ7LbSIJ=w640-h400-e365)
+
+----------
+
+## WhatRuns ##
+위에 Wappalyzer 와 비슷한 확장프로그램.
+정확도가 조금 떨어질 수 있으나 확인할 수 있는 내용은 더 많다.
+
+[확장프로그램 바로가기](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?utm_source=chrome-ntp-icon){:target="_blank"}
+
+![WhatRuns](https://lh3.googleusercontent.com/3l94PSikAL3KIkQKdXxgag_kbuCOWj9AOBT0o_18J_IbPJNe4TosBuW_mZYRCtbZcH6hLSNXqw=w640-h400-e365)
 
 ----------
 
