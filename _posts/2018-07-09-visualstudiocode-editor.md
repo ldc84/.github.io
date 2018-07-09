@@ -11,4 +11,5 @@ author: CNS
 ## 확장프로그램 ##
 시간 관계상 캡쳐한 이미지로 보여주기로 한다.
 한가해진다면 불필요한 확장프로그램없애고 하나씩 나열하도록 하겠다.
+
 <img src="{{ site.baseurl }}/img/expends/vscode_expends01.jpg" alt="">
