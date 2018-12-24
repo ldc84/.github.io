@@ -706,7 +706,9 @@ header .navbar-default .navbar-nav li a.active {
 
 #portfolio-work .block .portfolio-contant ul li a {
     display: block;
+    max-height:335px;
     color: #fff;
+    overflow:hidden;
 }
 
 #portfolio-work .block .portfolio-contant ul li a h2 {
