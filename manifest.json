@@ -1,0 +1,35 @@
+{
+  short_name: 'LDC Blog',
+  name: 'LDC Blog',
+  icons: [
+  {
+    src: 'favicon_cns2.ico',
+    type: 'image/x-icon',
+    sizes: '48x48',
+  },
+  {
+    src: 'favicon_cns2.ico',
+    type: 'image/x-icon',
+    sizes: '96x96',
+  },
+  {
+    src: 'favicon_cns2.ico',
+    type: 'image/x-icon',
+    sizes: '144x144',
+  },
+  {
+    src: 'favicon_cns2.ico',
+    type: 'image/x-icon',
+    sizes: '192x192',
+  },
+  {
+    src: 'favicon_cns2.ico',
+    type: 'image/x-icon',
+    sizes: '1024x1024',
+  },
+  ],
+  start_url: '/?launcher=true',
+  background_color: '#f1f2f7',
+  theme_color: '#dc143c',
+  display: 'fullscreen',
+};
